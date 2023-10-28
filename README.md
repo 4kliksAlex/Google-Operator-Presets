@@ -1,3 +1,5 @@
+ᔰ𝗸𝗹𝗶𝗸𝘀𝗔𝗹𝗲𝘅 𝙥𝙧𝙚𝙨𝙚𝙣𝙩𝙨
+
 # [Google Search Operators](https://support.google.com/cloudsearch/answer/6172299#zippy=%2Ccloud-search-operators)
 
 To use these links, you can simply search for what you want alongside those operators.
