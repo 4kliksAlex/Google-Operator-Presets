@@ -58,7 +58,7 @@ To use these links, you can simply search for what you want alongside those oper
 
 [Python for C++ Programmers - Google Search](https://www.google.com/search?q=site%3Apython.pages.doc.ic.ac.uk%2F)
 
-> A speedrun on `python` quirks for `c++` users like me :P
+> A speedrun on `python` quirks for `c++` users like me😜
 
 [Algorithm (Princeton) - Google Search](https://www.google.com/search?q=site%3Aalgs4.cs.princeton.edu%2F)
 
