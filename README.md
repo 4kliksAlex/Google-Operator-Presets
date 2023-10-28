@@ -4,14 +4,17 @@
 
 To use these links, you can simply search for what you want alongside those operators.
 
+> [!NOTE]
 > Usage Examples
 >
 > [Cover Letters from universities worldwide](https://www.google.com/search?q=site%3Aedu+OR+site%3Aedu.*+OR+site%3Aac+OR+site%3Aac.*+cover+letter+filetype%3A%28docx+OR+pdf+OR+html%29)
 >
 > [Resumes from universities worldwide](https://www.google.com/search?q=site%3Aedu+OR+site%3Aedu.*+OR+site%3Aac+OR+site%3Aac.*+resume+filetype%3A%28docx+OR+pdf+OR+html%29)
 
+> [!WARNING]
 > Sometimes the order between operators and keywords will also influence the search result.
 
+> [!WARNING]
 > Sometimes adding a trailing `/` to the URLs after the `site:` operator can increase or decrease the results of a Google search.
 
 ## Tech Sites
@@ -64,3 +67,5 @@ To use these links, you can simply search for what you want alongside those oper
 
 [Algorithm (Princeton) - Google Search](https://www.google.com/search?q=site%3Aalgs4.cs.princeton.edu%2F)
 
+> [!IMPORTANT]
+> Blogspot [4kliksAlex](https://4kliksAlex.blogspot.com/)
