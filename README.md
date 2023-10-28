@@ -2,15 +2,15 @@
 
 To use these links, you can simply search for what you want alongside those operators.
 
+> Usage Examples
+>
+> [Cover Letters from universities worldwide](https://www.google.com/search?q=site%3Aedu+OR+site%3Aedu.*+OR+site%3Aac+OR+site%3Aac.*+cover+letter+filetype%3A%28docx+OR+pdf+OR+html%29)
+>
+> [Resumes from universities worldwide](https://www.google.com/search?q=site%3Aedu+OR+site%3Aedu.*+OR+site%3Aac+OR+site%3Aac.*+resume+filetype%3A%28docx+OR+pdf+OR+html%29)
+
 > Sometimes the order between operators and keywords will also influence the search result.
 
 > Sometimes adding a trailing `/` to the URLs after the `site:` operator can increase or decrease the results of a Google search.
-
-## To Find a Job (Usage Examples)
-
-[Cover Letters from universities worldwide](https://www.google.com/search?q=site%3Aedu+OR+site%3Aedu.*+OR+site%3Aac+OR+site%3Aac.*+cover+letter+filetype%3A%28docx+OR+pdf+OR+html%29)
-
-[Resumes from universities worldwide](https://www.google.com/search?q=site%3Aedu+OR+site%3Aedu.*+OR+site%3Aac+OR+site%3Aac.*+resume+filetype%3A%28docx+OR+pdf+OR+html%29)
 
 ## Tech Sites
 
@@ -19,9 +19,9 @@ To use these links, you can simply search for what you want alongside those oper
 [Microsoft community articles - Google Search](https://www.google.com/search?q=%22Forum+Article+Info%22+site%3Amicrosoft.com)
 
 [(NEW) LeetCode free Editorials - Google Search](https://www.google.com/search?q=site%3Aleetcode.com%2Fproblems%2F*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*-*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*-*-*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*-*-*-*-*-*-*-*%2Feditorial%2F+OR%0D%0Asite%3Aleetcode.com%2Fproblems%2F*-*-*-*-*-*-*-*-*-*-*-*-*-*%2Feditorial%2F)
-> the `*-*-*-*-*-*-*-*-*-*-*-*-*-*` indicates the longest title with public editorial avaliable on LeetCode (Oct 20, 2023)
+> The `*-*-*-*-*-*-*-*-*-*-*-*-*-*` matches the longest title with public editorial avaliable on LeetCode (Oct 20, 2023)
 
-> Hardly can I Understand why LeetCode would replace simple numbers with complex titles in url :<
+> Hardly can I understand why LeetCode would replace simple numbers with complex titles in URLs🤔
 <!-- [(old) LeetCode free Editorials - Google Search](https://www.google.com/search?q=site%3Aleetcode.com%2Fproblems%2F*%2Feditorial) -->
 
 [Google Developers - Google Search](https://www.google.com/search?q=site%3Adevelopers.google.com)
