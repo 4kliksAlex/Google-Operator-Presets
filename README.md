@@ -1,4 +1,4 @@
-ᔰ𝗸𝗹𝗶𝗸𝘀𝗔𝗹𝗲𝘅 𝙥𝙧𝙚𝙨𝙚𝙣𝙩𝙨
+[ᔰ𝗸𝗹𝗶𝗸𝘀𝗔𝗹𝗲𝘅](https://github.com/4kliksAlex) 𝙥𝙧𝙚𝙨𝙚𝙣𝙩𝙨
 
 # [Google Search Operators](https://support.google.com/cloudsearch/answer/6172299#zippy=%2Ccloud-search-operators)
 
