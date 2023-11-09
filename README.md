@@ -1,5 +1,7 @@
-*[**ᔰ**𝗸𝗹𝗶𝗸𝘀𝗔𝗹𝗲𝘅](https://github.com/4kliksAlex) presents*
+<!-- > [!IMPORTANT] -->
+> Blogspot [4kliksAlex](https://4kliksAlex.blogspot.com/)
 
+*[**ᔰ**𝗸𝗹𝗶𝗸𝘀𝗔𝗹𝗲𝘅](https://github.com/4kliksAlex) presents:*
 # [Google Search Operators Presets](https://support.google.com/cloudsearch/answer/6172299#zippy=%2Ccloud-search-operators)
 
 To use these links, you can simply search for what you want alongside those operators.
@@ -66,6 +68,3 @@ To use these links, you can simply search for what you want alongside those oper
 > A speedrun on `python` quirks for `c++` users like me😜
 
 [Algorithm (Princeton) - Google Search](https://www.google.com/search?q=site%3Aalgs4.cs.princeton.edu%2F)
-
-<!-- > [!IMPORTANT] -->
-> Blogspot [4kliksAlex](https://4kliksAlex.blogspot.com/)
